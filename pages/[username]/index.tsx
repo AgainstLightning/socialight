@@ -1,11 +1,11 @@
 import type { NextPage } from 'next'
 
-const Slug: NextPage = ({ }) => {
+const User: NextPage = ({ }) => {
     return (
         <main>
-            <h1>Slug</h1>
+            <h1>USER</h1>
         </main>
     )
 }
 
-export default Slug
+export default User
